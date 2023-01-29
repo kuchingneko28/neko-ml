@@ -122,12 +122,12 @@ h6 {
 /* Slik */
 .slick-next {
   position: absolute;
-  top: 250;
+  top: 110;
   right: 0;
 }
 .slick-prev {
   position: absolute;
-  top: 250;
+  top: 110;
   left: 0;
   z-index: 1;
 }
